@@ -1,3 +1,6 @@
 # Latex files #
 .log
 .aux
+# LyX files #
+*.lyx#
+*.lyx~
